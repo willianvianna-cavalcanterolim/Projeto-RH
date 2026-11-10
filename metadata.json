@@ -1,0 +1,6 @@
+{
+  "name": "Kanban RH/DP - Cavalcante & Rolim",
+  "description": "Quadro Kanban premium de Implantação de RH e DP da Cavalcante & Rolim Empreendimentos (Signature Spaces) com persistência em banco de dados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
